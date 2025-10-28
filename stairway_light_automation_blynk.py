@@ -18,7 +18,7 @@ print = functools.partial(print, flush=True)
 
 # ---------------- USER CONFIG ---------------- 
 
-BLYNK_AUTH = "uCiBV9pw72HenzdaPIyXGL7E3NcAPD0S" 
+BLYNK_AUTH = "<Redacted>" 
 
   
 
